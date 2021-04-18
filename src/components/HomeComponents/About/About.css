@@ -1,0 +1,66 @@
+.section-content-block {
+    padding: 90px 0 100px 0;
+    background: #FFFFFF;
+}
+.section-heading-wrapper h4.heading-alt-style {
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 800;
+}
+h4 + p {
+    margin-top: 12px;
+}
+
+p {
+    font-style: normal;
+    font-weight: 400;
+    margin: 12px 0 12px;
+    padding: 0;
+}
+.highlight-layout-2 .highlight-text h5  {
+    position: relative;
+    display: block;
+    padding-top: 6px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    color: #555555;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.highlight-layout-2 .highlight-icon {
+
+
+    color: #ad6844;
+    font-size: 28px;
+}
+.counter-block-1 {
+    color: #646464;
+    margin: 0 0 0px 0;
+    padding: 32px 24px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.counter-block-1 .counter {
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 32px;
+    font-weight: 800;
+}
+.icons{
+    color: #ad6844;
+    margin-bottom: 7px;
+    font-size: 48px;
+}
+.counter-block-1 p {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 0;
+    letter-spacing: 0em;
+    position: relative;
+}

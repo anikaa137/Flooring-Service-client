@@ -1,0 +1,68 @@
+
+footer {
+    color: #FFFFFF;
+}
+.footer-bg{
+    /* background:linear-gradient( rgba(17,17,17,0.80),  rgba(17,17,17,0.80) ); */
+    background: linear-gradient( rgba(17,17,17,0.80), rgba(17,17,17,0.80) ), url(https://templates.bwlthemes.com/pakkapati/images/footer_bg.jpg );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+    overflow: hidden;
+}
+.footer-contents {
+    padding: 32px 0;
+    background: #111111;
+}
+.opening-shedule li {
+    border-bottom: 1px dotted #d9d9d9;
+    padding: 12px 0px 12px;
+    color: #FFFFFF;
+    list-style-type: none;
+}
+
+.footer-social-icons p{
+        border: 1px solid #CCCCCC;
+        color: #FFFFFF;
+        display: inline-block;
+        font-size: 15px;
+        height: 35px;
+        line-height: 33px;
+        margin-right: 10px;
+        position: relative;
+        text-align: center;
+
+        transition: all 0.3s ease-in-out;
+        width: 35px;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        border-radius: 0px;
+        -webkit-background-clip: padding-box;
+        -moz-background-clip: padding;
+        background-clip: padding-box;
+    }
+ .textwidget a {
+     text-decoration: none;
+     color: #FFFFFF;
+ }
+ .textwidget li{
+    list-style-type: none;
+ }
+ .service-icon{
+    display: inline;
+    text-align: center;
+    width: 20px;
+    height: 17px;
+    color: #ad6844;
+    margin-right: 0px;
+ }
+
+ .footer-useful-links li {
+    margin-bottom: 3px;
+    width: 50%;
+    float: left;
+    line-height: 10px;
+}
+
+/* style="background:linear-gradient( rgba(17,17,17,0.80),  rgba(17,17,17,0.80) ), url(&quot;images/footer_bg.jpg&quot;); background-position: center center;  background-repeat: no-repeat;  background-attachment: inherit;  background-size: cover;  overflow: hidden; " */

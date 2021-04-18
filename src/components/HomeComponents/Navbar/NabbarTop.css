@@ -1,0 +1,29 @@
+.header-logo {
+    vertical-align: middle ;
+    display: block;
+    
+}
+
+.head-heading{
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: block;
+    color: #444444;
+    letter-spacing: 0em;
+}
+.head-content{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #777777;
+    letter-spacing: 0em;
+}
+.head-btn{
+    background: transparent;
+    padding: 7px 12px;
+    color: #111111;
+    border: 2px solid #ad6844;
+
+}

@@ -1,0 +1,45 @@
+button {
+	appearance: none;
+	filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.1));
+	/* transition: background .5s ease, color .5s ease; */
+	border: none;
+	background: #ffd800;
+	border-radius: 30px;
+	text-transform: uppercase;
+	box-sizing: border-box;
+	padding: 15px 40px;
+	font-weight: 400;
+	font-size: 13px;
+	cursor: pointer;
+
+}
+.btnOne{
+    color: #ad6844;
+    background: #FFFFFF;
+}
+.btnTwo{
+    color: #FFFFFF;
+    background-color: #444357;
+}
+.title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 72px;
+    line-height: 72px;
+    font-weight: 800;
+    margin: 0px 0 0;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 1px #666666;
+    letter-spacing: -0.03em;
+}
+.slider-info.h1{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.slide-bg {
+ opacity: 0.3;
+}
